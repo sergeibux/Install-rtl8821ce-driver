@@ -27,6 +27,6 @@ echo '> activate the new driver'
 modprobe -a 8821ce
 
 echo '\tJob is done ;)'
-echo "\tIf it doesn't work, you can take a look on the logfile : install-rtl8821ce.log and contact sertux.dev@gmail for more help."
+echo "\tIf it doesn't work, you can take a look on the logfile : install-rtl8821ce.log and contact sertux.dev@gmail.com for more help."
 echo '\tThanks to Toma Pinho for the sources' 
 echo '\tNow, just reboot (\e[01;41msudo reboot\e[0;m) & \e[01;05mENJOY ;)\e[0;m'
